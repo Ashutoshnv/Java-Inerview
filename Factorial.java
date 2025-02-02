@@ -9,8 +9,5 @@ class Factorial
             fact=fact*i;
         }
             System.out.println("The Factorial of " +num+ " it is = "+fact);
-        
-       // System.out.println("The Factorial of this number ="+num);
-    
     }
 }
